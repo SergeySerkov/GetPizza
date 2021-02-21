@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d93ee3208d67dd9f5e9b1cb825d4b326",
+    "revision": "d6b34125a5655f47d74e124d4e2a7255",
     "url": "/GetPizza/index.html"
   },
   {
-    "revision": "74fb61f1fd5a07520591",
-    "url": "/GetPizza/static/css/main.2863f604.chunk.css"
+    "revision": "269e5648a86f4d8deded",
+    "url": "/GetPizza/static/css/main.1a20f11b.chunk.css"
   },
   {
     "revision": "80ee4aeed95bb357b51e",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/GetPizza/static/js/2.aa9bdc2e.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "74fb61f1fd5a07520591",
-    "url": "/GetPizza/static/js/main.c9682b35.chunk.js"
+    "revision": "269e5648a86f4d8deded",
+    "url": "/GetPizza/static/js/main.5c5c7a27.chunk.js"
   },
   {
     "revision": "556d84ccb6af3d14ea31",
